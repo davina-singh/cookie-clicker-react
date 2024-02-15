@@ -11,8 +11,8 @@ export default function Shop({ items, purchaseItem }) {
         // each item is wrapped in a div with unique 'key'prop for React's list rendering optimisation
         <div key={item.id}>
           <span id="shopItems">
-            {item.name} - Cost: {item.cost} Cookies - Increment Rate:
-            {item.incrementValue}
+            {item.name} - Cost: {item.cost} Cookies - Increment Rate:{" "}
+            {item.incrementValue} cps
             {/* Displays the name and cost of each item */}
           </span>
           <button
