@@ -7,7 +7,7 @@ Purchasing shop items at a cost (of the count) increases the count by 10 cps etc
 
 Example: https://all-the-cookies.vercel.app/
 
-Workshop
+Workshop:
 - 🎯 Start another React app with vite. It's convenient to use the Vite starter template for React.
 npx create-vite
 - ⛳️ Choose React, and JavaScript.
