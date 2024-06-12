@@ -1,9 +1,10 @@
-Count increases automatically by 1 per second
-Clicking cookie button (manually) increases count by one 
-Purchasing shop items at a cost (of the count) increases the count by 10 cps etc 
-(and reset sets the cookies back to zero)
+Counter, button, shop items and reset 
+- Count increases automatically by 1 per second
+- Clicking cookie button (manually) increases count by one 
+- Purchasing shop items at a cost (of the count) increases the count by 10 cps etc 
+- (and reset sets the cookies back to zero)
 
-# Week 6 Assignment - Build a Cookie Clicker in React
+# Week 6 Assignment - React.js: Build a Cookie Clicker in React
 
 Example: https://all-the-cookies.vercel.app/
 
